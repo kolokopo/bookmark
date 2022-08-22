@@ -1,15 +1,15 @@
-Example-Collection:
-  - Bucket:
-    - Link 1: https://example.com
-    - Link 2:
-      - https://example.com
-    - Link with notes:
-      - https://example.com
-      - This is a text note
-      - Link note: https://example.com
+Core Initiative:
+  - Finpay One:
+    - Kanban:
+      - https://github.com/users/purwaren/projects/12
+    - Backoffice Repo:
+      - https://github.com/purwaren/finpay-api-backoffice
+    - Project Repo List:
+      - https://github.com/stars/kolokopo/lists/core-initiative-studio-1
 
-Collection with Links:
-  - static-marks:
-    - static-marks repository: https://github.com/darekkay/static-marks
-    - github-pages as template-project: https://gaerfield.github.io/static-marks-github-pages
-    - docker-template as alternative: https://github.com/gaerfield/static-marks-docker
+About Me:
+  - professional:
+    - github: https://github.com/kolokopo
+    - linkedin: https://www.linkedin.com/in/muhammad-afiful-amin-45ab07159
+  - blogs:
+    - medium: https://medium.com/@mafifulamin
